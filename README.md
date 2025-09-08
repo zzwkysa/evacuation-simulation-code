@@ -1,0 +1,1 @@
+Nine state-of-the-art ML models are applied to predict and analyse human evacuation time. Additionally, four statistical indicators are utilised to monitor the performance of each model. A new weighted selection method based on analytic hierarchy process and entropy weight method is created to conduct a comprehensive assessment from the perspectives of accuracy and timeliness. 
